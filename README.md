@@ -1,15 +1,16 @@
-# Oppgave ferdig
+s# Oppgave ferdig
 ---
 Skriftlige
 
 CH1
-
+CH2 (2.7 undone)
 CH3
-
-CH4 (/Today)
-
-
 
 ---
 Lytte
 CH1
+
+
+=====
+
+CH4
